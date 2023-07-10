@@ -8,7 +8,7 @@ Scroll to the bottom of the wish list and click the "Add All to Cart" button
 
 ![Wishlist](images/wishlist.jpg)
 
-The BOM document contains links to purchase the other components (excepts the 3D printed parts).
+The BOM document contains links to purchase the other components (except the 3D printed parts).
 
 Note that there are several 3D printed parts that you'll need to 3D print yourself. The next section will cover that in more detail.
 
@@ -20,7 +20,7 @@ Note that there are several 3D printed parts that you'll need to 3D print yourse
 
 Additionally, the assembly instructions call for these tools:
 
-* Custom Ribbit 5mm socket/driver, or standard.  Both options shown
+* Custom Ribbit 5mm socket/driver, or your own 5mm socket/driver.  Both options are shown in the image below.
 * Small phillips screwdriver
 * Cyanoacrylate adhesive
 
